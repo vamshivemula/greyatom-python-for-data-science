@@ -10,7 +10,7 @@
 
 ### Approach taken to solve the problem
 
- Approach was none. My development experience helped me attain knowledge.
+ I am an experienced .NET developer, and my development experience helped me solving problems.
 
 
 ### Challenges faced
